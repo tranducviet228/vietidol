@@ -1,0 +1,56 @@
+
+body{
+    display: block;
+    margin: 8px;
+    background-color: rgb(193, 199, 218);
+    margin-left: 40%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+form{
+    background-color: white;
+    height: 370px;
+    width: 292px;
+    border: 1px solid #80808000;
+    text-align: center;
+    border-radius: 15px;
+}
+h2{
+    display: inline-block;
+    color: rgba(28, 28, 248, 0.836);
+}
+.user-lable{
+    display: block;
+    padding: 5px;
+    margin-left: -65px;
+}
+.user{
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+.user-input{
+    padding: 10px;
+    border-radius: 15px;
+}
+.pass-lable{
+    display: block;
+    padding: 5px;
+    margin-left: -100px;
+}
+.pass{
+    margin-bottom: 10px;
+}
+.pass-input{
+    padding: 10px;
+    border-radius: 15px;
+}
+button{
+    color: white;
+    background-color: #00dbde;
+    border-radius: 15px;
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+}
+button:hover{
+    background-color: rgb(184, 173, 173);
+}
